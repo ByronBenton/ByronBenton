@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. My name is Byron Benton and I have an affinity for creating. My specialties include data-driven product development, strategic decision-making and writing code.
 
 <!--
 **ByronBenton/ByronBenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
