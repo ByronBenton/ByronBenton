@@ -1,8 +1,10 @@
-## Hello 👋. My name is Byron Benton and I have an affinity for creating. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. Currently, I'm familiar with HTML, CSS and JavaScript but my plan is to learn Python in the immediate future.
+## Hello 👋. My name is Byron Benton and I have an affinity for creating. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day.
 
 
 😄 Pronouns: He/Him
-🌱 I’m currently learning: HTML and CSS with plans to learn Python in the future. 
+🌱 I’m currently learning HTML and CSS with plans to learn Python in the future. 
+👯 I’m looking to add to the community.
+🤔 I’m looking for a difference of opinion.
 ⚡ Fun fact: I love to workout and practice amateur videography and photogrpahy.
 
 
