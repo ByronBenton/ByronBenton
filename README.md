@@ -3,6 +3,7 @@
 As long as I remember my passion has always been in creating things. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. I would like to collaborate with like-minded people and add to the GitHub community. 
 
 
+
 * 😄 Pronouns: He/Him
 
 * 🌱 I’m currently learning HTML, CSS and JavaScript with plans to learn Python in the future.
@@ -14,6 +15,7 @@ As long as I remember my passion has always been in creating things. My specialt
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
 👉 Languages that I've used
+
 
 
 ![image](https://github.com/user-attachments/assets/a8e097e7-7c01-494f-97f2-9729106dc0e5)
