@@ -11,8 +11,7 @@ As long as I remember my passion has always been in creating things. My specialt
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
 
-![image](https://github.com/user- attachments/assets/a2155a4a-3785-4236-a7e5-af83c78d0765)
-Languages that Ive used 
+
 
 
 <!--
