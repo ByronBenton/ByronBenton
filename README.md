@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/49459082-a4a7-4509-a4f5-6450ea2b5e97)
+
 **Hello,**
 
 **My name is Byron, and as for as long as I can remember, my passion has always been in creating and building things. My specialties include data-driven product development, strategic decision-making and writing code. I constantly push beyond my comfort zone level in an effort to improve every single day. I would like to collaborate with like-minded people and add to the GitHub community.**
