@@ -1,6 +1,6 @@
 **Hello**👋. **My name is Byron.**
 
-As long as I can remember my passion has always been in creating things. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. I would like to collaborate with like-minded people and add to the GitHub community. 
+For as long as I can remember, my passion has always been in creating and building things. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. I would like to collaborate with like-minded people and add to the GitHub community. 
 
 
 
@@ -12,8 +12,8 @@ As long as I can remember my passion has always been in creating things. My spec
 
 * (👀) I’m looking to add to the community.
 
-* 🤔 I'm a natural deep thinker.
-
+* 🤔 I'm inherently a deep thinker.
+  
 * 💬 Ask me about how to create functional products that appeal to customers. 
 
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
