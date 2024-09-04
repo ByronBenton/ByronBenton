@@ -1,4 +1,4 @@
-## Hello 👋. My name is Byron.
+##Hello 👋. My name is Byron.
 
 As long as I remember my passion has always been in creating things. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. I would like to collaborate with like-minded people and add to the GitHub community. 
 
@@ -11,7 +11,8 @@ As long as I remember my passion has always been in creating things. My specialt
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
 
-
+![image](https://github.com/user- attachments/assets/a2155a4a-3785-4236-a7e5-af83c78d0765)
+Languages that Ive used 
 
 
 <!--
