@@ -7,7 +7,6 @@
 🤔 I’m looking for a difference of opinion.
 ⚡ Fun fact: I love to workout and practice amateur videography and photogrpahy.
 
-![image](https://github.com/user-attachments/assets/ab3ca03f-751b-435f-ba54-6054e1a3a1a6)
 
 
 
