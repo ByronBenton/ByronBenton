@@ -9,7 +9,7 @@ As long as I remember my passion has always been in creating things. My specialt
 * 🤔 I'm a natural deep thinker.
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
-👉 Languages That I've Used
+👉 Languages that I've used
 
 ![image](https://github.com/user-attachments/assets/a8e097e7-7c01-494f-97f2-9729106dc0e5)
 
