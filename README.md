@@ -1,6 +1,6 @@
 ## Hello 👋. My name is Byron.
 
-As long as I remember my passion has always been creating things. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. I would like to collaborate with like-minded people and add to the GitHub community. 
+As long as I remember my passion has always been in creating things. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. I would like to collaborate with like-minded people and add to the GitHub community. 
 
 * 😄 Pronouns: He/Him
 * 🌱 I’m currently learning HTML, CSS and JavaScript with plans to learn Python in the future. 
