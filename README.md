@@ -37,6 +37,8 @@
 
 ☑️ Blog Website Design
 
+☑️ Video Game Design
+
 **HOW TO REACH ME:**
 
 ✔️Linkedin: https://www.linkedin.com/in/byronbenton/
