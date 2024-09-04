@@ -3,8 +3,9 @@
 
 😄 Pronouns: He/Him
 🌱 I’m currently learning HTML, CSS and JavaScript with plans to learn Python in the future. 
- (👀) I’m looking to add to the community.
-⚡ Fun fact: I love to workout and practice amateur videography and photogrpahy.
+(👀) I’m looking to add to the community.
+🤔 I'm a natural deep thinker.
+⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
 
 
