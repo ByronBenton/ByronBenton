@@ -25,10 +25,10 @@ For as long as I can remember, my passion has always been in creating and buildi
 ![image](https://github.com/user-attachments/assets/a8e097e7-7c01-494f-97f2-9729106dc0e5)
 
 💬HOW TO REACH ME:
-
 ✔️Linkedin: https://www.linkedin.com/in/byronbenton/
 
 ✔️Website: https://byronbenton.wixsite.com/byron-benton
+
 ✔️Blog: https://moonshotexpressions.medium.com/
 
 [![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByronBenton)](https://github.com/ByronBenton/github-readme-stats)
