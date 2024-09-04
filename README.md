@@ -6,7 +6,9 @@ As long as I remember my passion has always been in creating things. My specialt
 
 * 😄 Pronouns: He/Him
 
-* 🌱 I’m currently learning HTML, CSS and JavaScript with plans to learn Python in the future.
+* 🔭 I'm currently working on web development projects.
+
+* 🌱 I know HTML, CSS and JavaScript but have plans to learn Python in the future.
 
 * (👀) I’m looking to add to the community.
 
