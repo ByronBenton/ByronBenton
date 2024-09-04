@@ -14,6 +14,8 @@ As long as I remember my passion has always been in creating things. My specialt
 
 * 🤔 I'm a natural deep thinker.
 
+* 💬 Ask me about how to create functional products that appeal to customers. 
+
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
 👉 **Languages that I've used**
