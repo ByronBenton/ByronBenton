@@ -26,10 +26,15 @@
 ![image](https://github.com/user-attachments/assets/a8e097e7-7c01-494f-97f2-9729106dc0e5)
 
 **MY SERVICES**
+
 ☑️ HTML & CSS Problem Fix
+
 ☑️ E-Commerce Website Design
+
 ☑️ Online Shopping Website Design
+
 ☑️ Portfolio Website Design
+
 ☑️ Blog Website Design
 
 **HOW TO REACH ME:**
