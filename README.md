@@ -17,6 +17,7 @@
 * 💬 Ask me about how to create functional products that appeal to customers. 
 
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
+  
 
 👉 **PROGRAMMING LANGUAGES**
 
