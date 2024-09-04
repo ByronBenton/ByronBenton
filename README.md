@@ -1,13 +1,12 @@
-## Hello 👋. My name is Byron Benton
+## Hello 👋. My name is Byron.
 
-and I have an affinity for creating. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day.
+As long as I remember my passion has always been creating things. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day. I would like to collaborate with like-minded people and add to the GitHub community. 
 
-
-😄 Pronouns: He/Him
-🌱 I’m currently learning HTML, CSS and JavaScript with plans to learn Python in the future. 
-(👀) I’m looking to add to the community.
-🤔 I'm a natural deep thinker.
-⚡ Fun fact: I love to workout and practice amateur videography and photography.
+* 😄 Pronouns: He/Him
+* 🌱 I’m currently learning HTML, CSS and JavaScript with plans to learn Python in the future. 
+* (👀) I’m looking to add to the community.
+* 🤔 I'm a natural deep thinker.
+* ⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
 
 
