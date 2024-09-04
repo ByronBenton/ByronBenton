@@ -1,4 +1,6 @@
-## Hello 👋. My name is Byron Benton and I have an affinity for creating. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day.
+## Hello 👋. My name is Byron Benton
+
+and I have an affinity for creating. My specialties include data-driven product development, strategic decision-making and writing code. I push my comfort level in an attempt to get better each and every day.
 
 
 😄 Pronouns: He/Him
