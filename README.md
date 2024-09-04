@@ -2,7 +2,7 @@
 
 
 😄 Pronouns: He/Him
-🌱 I’m currently learning HTML and CSS with plans to learn Python in the future. 
+🌱 I’m currently learning HTML, CSS and JavaScript with plans to learn Python in the future. 
 👯 I’m looking to add to the community.
 🤔 I’m looking for a difference of opinion.
 ⚡ Fun fact: I love to workout and practice amateur videography and photogrpahy.
