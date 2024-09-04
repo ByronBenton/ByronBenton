@@ -18,7 +18,7 @@
 
 * ⚡ Fun fact: I love to workout and practice amateur videography and photography.
 
-👉 **Languages that I've used**
+👉 **PROGRAMMING LANGUAGES**
 
 
 
