@@ -1,4 +1,4 @@
-![image]([https://github.com/user-attachments/assets/49459082-a4a7-4509-a4f5-6450ea2b5e97](https://www.linkedin.com/in/byronbenton/))
+![image](https://www.linkedin.com/in/byronbenton/))
 
 **Hello,**
 
