@@ -24,8 +24,6 @@ As long as I can remember my passion has always been in creating things. My spec
 
 ![image](https://github.com/user-attachments/assets/a8e097e7-7c01-494f-97f2-9729106dc0e5)
 
-![image](https://github.com/user-attachments/assets/764cb3ec-2035-49fe-8bbe-386d54f7ef08)
-     Github
 [![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByronBenton)](https://github.com/ByronBenton/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronBenton)](https://github.com/ByronBenton/github-readme-stats)
