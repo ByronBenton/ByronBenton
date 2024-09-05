@@ -1,5 +1,4 @@
 
-![20211209_144014-1-1 (1)](https://github.com/user-attachments/assets/2da8d2cb-747a-4592-84f0-bb6e83718107)
 
 **Hello,**
 
