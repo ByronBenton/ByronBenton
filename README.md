@@ -1,6 +1,5 @@
 
-![github-header-image (2)](https://github.com/user-attachments/assets/8c12c1cf-1e6c-4b2b-83d9-6e39b7b853ef)
-
+![github-header-image](https://github.com/user-attachments/assets/ab7b65bd-f6a9-439a-bb31-0b08c90cb080)
 
 **Hello,**
 
