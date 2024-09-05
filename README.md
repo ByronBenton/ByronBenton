@@ -1,3 +1,6 @@
+
+![20211209_144014-1-1 (1)](https://github.com/user-attachments/assets/2da8d2cb-747a-4592-84f0-bb6e83718107)
+
 **Hello,**
 
 **My name is Byron, and as for as long as I can remember, my passion has always been in creating and building things. My specialties include data-driven product development, strategic decision-making and writing code. I constantly push beyond my comfort zone level in an effort to improve every single day. I would like to collaborate with like-minded people and add to the GitHub community.**
