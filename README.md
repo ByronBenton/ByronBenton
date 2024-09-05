@@ -54,7 +54,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronBenton)](https://github.com/ByronBenton/github-readme-stats)
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/byronbenton/byronbenton/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/byronbenton/byronbenton/output/github-contribution-grid-snake.svg"/>
 
 
 <!--
