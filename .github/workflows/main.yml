@@ -1,10 +1,22 @@
- - name: Generate-README.md-snake
-  # You may pin to the exact commit or the version.
-  # uses: InvalidLenni/README.md@a89878f85b1cca8131c215dbfb4ad7bcdb6b9b9f
-  uses: InvalidLenni/README.md@Template
+- name: Linting
+  uses: snakemake/snakemake-github-action@v1
   with:
-    # <ByronBenton>
-    github_user_name: 
-    # <PATH OF THE GENERATED SVG FILE>
-    svg_out_path: 
-          
+    directory: '.test'
+    snakefile: 'workflow/Snakefile'
+    args: '--lint'
+
+- name: Testing
+  uses: snakemake/snakemake-github-action@v1
+  with:
+    directory: '.test'
+    snakefile: 'workflow/Snakefile'
+    args: '--cores 1 --use-conda --conda-cleanup-pkgs cache'
+    stagein: '' # additional preliminary commands to run (can be multiline)
+    show-disk-usage-on-error: true
+
+
+- name: Create container file
+  uses: snakemake/snakemake-github-action@v1
+  with:
+    snakefile: 'workflow/Snakefile'
+    task: 'containerize'
