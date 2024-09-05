@@ -3,7 +3,7 @@
   # uses: InvalidLenni/README.md@a89878f85b1cca8131c215dbfb4ad7bcdb6b9b9f
   uses: InvalidLenni/README.md@Template
   with:
-    # <USERNAME>
+    # <ByronBenton>
     github_user_name: 
     # <PATH OF THE GENERATED SVG FILE>
     svg_out_path: 
