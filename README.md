@@ -30,7 +30,7 @@
 
 **MY SERVICES**
 
-☑️ HTML & CSS Problem Fix
+☑️ HTML & CSS Problem Solving 
 
 ☑️ E-Commerce Website Design
 
