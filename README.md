@@ -54,26 +54,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronBenton)](https://github.com/ByronBenton/github-readme-stats)
 
-import os
-import datetime
-
-# Starting date (modify this for your pattern)
-start_date = datetime.date(2023, 1, 1)
-
-# Create commits in a snake pattern
-for i in range(0, 365):  # One year of commits
-    date = start_date + datetime.timedelta(days=i)
-    with open("dummy_file.txt", "a") as file:
-        file.write(f"Commit for {date}\n")
-    os.system(f'git add .')
-    os.system(f'git commit --date="{date.isoformat()} 12:00:00" -m "Commit on {date}"')
-
-# Push to GitHub
-os.system("git push")
-
-
-
-
 <!--
 **ByronBenton/ByronBenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
