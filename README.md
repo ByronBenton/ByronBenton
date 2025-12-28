@@ -30,19 +30,23 @@ I am especially interested in data-informed product decisions, user experience d
 
 ![image](https://github.com/user-attachments/assets/a8e097e7-7c01-494f-97f2-9729106dc0e5)
 
-**Product Prototypes**
+**Product Experiments and Prototypes**
 
-☑️ HTML & CSS Problem Solving 
+This GitHub contains learning projects and early-stage prototypes that demonstrate how I think about products rather than production-level engineering systems.
 
-☑️ E-Commerce Website Design
+Examples include:
 
-☑️ Online Shopping Website Design
+☑️ User interface experiments and front-end interactions
 
-☑️ Portfolio Website Design
+☑️ Small JavaScript applications focused on user behavior
 
-☑️ Blog Website Design
+☑️ Product concept prototypes and MVP-style explorations
 
-☑️ Video Game Design
+☑️ Early experiments with tooling and workflows
+
+☑️ AI Chatbot for Product FAQs
+
+☑️ Interactive Data Dashboard
 
 **HOW TO REACH ME:**
 
