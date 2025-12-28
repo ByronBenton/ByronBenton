@@ -11,17 +11,17 @@ I am especially interested in data-informed product decisions, user experience d
 
 * 😄 Pronouns: He/Him
 
-* 🔭 I'm currently working on web development projects.
+* 🔭 Currently building small web projects and product experiments to strengthen my technical fluency and product thinking.
 
-* 🌱 I know HTML, CSS and JavaScript but have plans to learn Python in the future.
+* 🌱 Comfortable with HTML, CSS, and JavaScript and actively exploring ways to apply these skills to prototyping and product discovery. Planning to expand into Python in the future.
 
-* (👀) I’m looking to add to the community.
+* (👀) Interested in contributing to product focused and beginner friendly open source projects.
 
-* 🤔 I'm inherently a deep thinker.
+* 🤔 Naturally analytical and enjoy breaking down complex problems into simple, user centered solutions.
   
-* 💬 Ask me about how to create functional products that appeal to customers. 
+* 💬 Ask me about product strategy, experimentation, or how to build functional products that appeal to customers.
 
-* ⚡ Fun fact: I love to workout and practice amateur videography and photography.
+* ⚡ Fun fact: I enjoy working out and practicing amateur videography and photography.
   
 
 👉 **PROGRAMMING LANGUAGES**
