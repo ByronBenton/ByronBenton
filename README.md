@@ -1,7 +1,7 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/ab7b65bd-f6a9-439a-bb31-0b08c90cb080)
 
-Hello
+Hello, my name is Byron.
 
 I am a Product Manager who enjoys building, experimenting, and learning by doing. My background combines product strategy, customer-focused thinking, and hands-on experience with front-end technologies. I use code as a tool to better collaborate with engineers, prototype ideas, and understand technical tradeoffs.
 
