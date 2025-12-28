@@ -30,7 +30,7 @@ I am especially interested in data-informed product decisions, user experience d
 
 ![image](https://github.com/user-attachments/assets/a8e097e7-7c01-494f-97f2-9729106dc0e5)
 
-**MY SERVICES**
+**Product Prototypes**
 
 ☑️ HTML & CSS Problem Solving 
 
