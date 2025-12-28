@@ -52,9 +52,9 @@ Examples include:
 
 ✔️Linkedin: https://www.linkedin.com/in/byronbenton/
 
-✔️Website: https://byronbenton.wixsite.com/byron-benton
+✔️Portfolio: https://byronbenton.wixsite.com/byron-benton
 
-✔️Blog: https://moonshotexpressions.medium.com/
+✔️Writing: https://moonshotexpressions.medium.com/
 
 [![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByronBenton)](https://github.com/ByronBenton/github-readme-stats)
 
