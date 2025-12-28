@@ -3,7 +3,9 @@
 
 Hello
 
-My name is Byron. For as long as I can remember, my passion has been creating and building things. I specialize in data-driven product development, strategic decision-making, and writing code. I constantly push beyond my comfort zone to improve every day. I enjoy collaborating with like-minded people and contributing to the GitHub community.**
+I am a Product Manager who enjoys building, experimenting, and learning by doing. My background combines product strategy, customer-focused thinking, and hands-on experience with front-end technologies. I use code as a tool to better collaborate with engineers, prototype ideas, and understand technical tradeoffs.
+
+I am especially interested in data-informed product decisions, user experience design, and experimenting with new tools such as AI and automation. I enjoy working with curious, thoughtful teams and continuously pushing myself outside my comfort zone.
 
 
 
